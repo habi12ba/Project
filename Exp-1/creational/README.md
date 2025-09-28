@@ -26,7 +26,7 @@ In large applications, multiple classes often need to log messages.
 If each class had its own logger instance:  
 - Logs could become inconsistent.  
 - Memory and I/O resources could be wasted.  
-
 By using a Singleton, the entire application shares one Logger instance, ensuring consistent and efficient logging
-<img width="190" height="384" alt="Image" src="https://github.com/user-attachments/assets/e1a5454b-4f07-4b0e-9d52-837cac511f1f" />
+
+<img width="300" height="384" alt="Image" src="https://github.com/user-attachments/assets/e1a5454b-4f07-4b0e-9d52-837cac511f1f" />
 
