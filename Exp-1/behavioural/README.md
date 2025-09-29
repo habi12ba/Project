@@ -1,7 +1,7 @@
 # Observer Pattern – Stock Ticker System
 
 ## Overview  
-The **Observer Pattern** is a **behavioral design pattern** that defines a **one-to-many dependency** between objects.  
+The **Observer Pattern** is a **behavioural design pattern** that defines a **one-to-many dependency** between objects.  
 When one object (the **Subject**) changes state, all its dependent objects (**Observers**) are automatically notified and updated.  
 
 This ensures **loose coupling** between subjects and observers, making the system flexible and extensible.
