@@ -14,7 +14,7 @@ This project demonstrates a **Beverage Vending Machine** that serves multiple dr
 Each beverage has its **own factory** responsible for creating and serving it.  
 The system can accommodate new beverages by simply adding a **new product class** and a **corresponding factory**, without changing existing code.
 
-<img width="3840" height="1083" alt="Image" src="https://github.com/user-attachments/assets/162f9be5-dcc9-48d3-b58b-69f4caff1761" />
+<img width="380" height="108" alt="Image" src="https://github.com/user-attachments/assets/162f9be5-dcc9-48d3-b58b-69f4caff1761" />
  
 ## Singleton Design Pattern - Centralized Logger System 
 ## Overview
