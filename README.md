@@ -1,13 +1,14 @@
 # 🚀 Mars Rover Programming Project
 
 ## Exercise 1 – Problem Statement on Design Patterns
+  
+Two use cases to demonstrate two behavioural design pattern. 
 
-Problem Statement on Design patterns  
-Two use cases to demonstrate two behavioural design pattern.  
 **Observer**  
 **Strategy**  
 
 Two use cases to demonstrate two creational design pattern.  
+
 **Factory**  
 **Singleton**  
 
