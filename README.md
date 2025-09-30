@@ -12,6 +12,7 @@ Two use cases to demonstrate two creational design pattern.
 **Singleton**  
 
 Two use cases to demonstrate two structural design pattern.
+
 **Adaptor**  
 **Composite**
 
