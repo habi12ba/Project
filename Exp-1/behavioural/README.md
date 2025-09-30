@@ -34,7 +34,7 @@ This project demonstrates a **Route Navigation System** where:
 - The strategy can be switched **at runtime** without modifying the Navigator logic  
 - New route strategies can be added easily without disturbing existing code
   
-- <img width="1000" height="1000" alt="Untitled diagram _ Mermaid Chart-2025-09-28-075734" src="https://github.com/user-attachments/assets/cee91fc8-2ec2-41c8-9a76-81fda4489973" />
+  <img width="1000" height="1000" alt="Untitled diagram _ Mermaid Chart-2025-09-28-075734" src="https://github.com/user-attachments/assets/cee91fc8-2ec2-41c8-9a76-81fda4489973" />
 
 
 
