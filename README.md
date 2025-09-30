@@ -3,25 +3,23 @@
 ## Exercise 1 – Problem Statement on Design Patterns
 
 Problem Statement on Design patterns  
-Two use cases to demonstrate two behavioural design pattern.
-**Observer**
+Two use cases to demonstrate two behavioural design pattern.  
+**Observer**  
 **Strategy**  
 
-Two use cases to demonstrate two creational design pattern.
-**Factory**
+Two use cases to demonstrate two creational design pattern.  
+**Factory**  
 **Singleton**  
 
-Two use cases to demonstrate two structural design pattern.
-**Adaptor**
+Two use cases to demonstrate two structural design pattern.  
+**Adaptor**  
 **Composite**
-
 ---
 
 ## Exercise 2: 3) The Mars Rover Programming
 
 This System must be designed to be flexible, reusable, and extensible.  
 To achieve this, design patterns are applied.  
-Below are the two use cases for each required pattern:
 
 # Mars Rover Simulation
 
