@@ -1,4 +1,28 @@
-# Project
+# 🚀 Mars Rover Programming Project
+
+## Exercise 1 – Problem Statement on Design Patterns
+
+Problem Statement on Design patterns  
+Two use cases to demonstrate two behavioural design pattern.
+**Observer**
+**Strategy**  
+
+Two use cases to demonstrate two creational design pattern.
+**Factory**
+**Singleton**  
+
+Two use cases to demonstrate two structural design pattern.
+**Adaptor**
+**Composite**
+
+---
+
+## Exercise 2: 3) The Mars Rover Programming
+
+This System must be designed to be flexible, reusable, and extensible.  
+To achieve this, design patterns are applied.  
+Below are the two use cases for each required pattern:
+
 # Mars Rover Simulation
 
 This documentation explains a Java-based **Mars Rover Simulation** project. The goal of the project is to model a rover moving on a rectangular grid, responding to commands while handling invalid input and edge cases.
