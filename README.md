@@ -107,40 +107,8 @@ Exceptions are a way for code to signal that something went wrong (e.g., trying 
   - Throw a specific `OutOfGridException` and catch it in Main to print an error message.
 
 **Conceptual Flow Diagram**
-┌────────────┐
-│   User     │
-│ Input      │
-│ (width,    |
-| height,    |
-| commands)  │
-└──────┬─────┘
-       │
-       ▼
-┌──────────────┐         ┌────────────┐
-│    Main      │──────▶  |   Grid    |
-│(parses input)│         │ (boundary) │
-└──────┬───────┘         └────────────┘
-       │
-       ▼
-┌────────────┐
-│   Rover    │◀──────────┐
-│ (position, │           │
-│  direction)│           │
-└────┬───────┘           │
-     │                   │
-     ▼                   │
-┌──────────────┐         │
-│ Direction(s) │         │
-│ (N/E/S/W)    │         │
-└──────────────┘         │
-     ▲                   │
-     │                   │
-     │                   ▼
-     │            ┌────────────┐
-     └────────────│  Commands  │
-                  │(Move/Turn) │
-                  └────────────┘
-
+ 
+ ![WhatsApp Image 2025-09-30 at 2 19 11 PM](https://github.com/user-attachments/assets/b115fd39-5682-4731-8cd1-b93edcfb6b67)
 
 
 **CORE COMPONENTS**
