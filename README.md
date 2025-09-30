@@ -1,4 +1,4 @@
-# 🚀 Mars Rover Programming Project
+# Mars Rover Programming Project
 
 ## Exercise 1 – Problem Statement on Design Patterns
   
