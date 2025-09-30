@@ -11,10 +11,10 @@ Two use cases to demonstrate two creational design pattern.
 **Factory**  
 **Singleton**  
 
-Two use cases to demonstrate two structural design pattern.  
+Two use cases to demonstrate two structural design pattern.
 **Adaptor**  
 **Composite**
----
+
 
 ## Exercise 2: 3) The Mars Rover Programming
 
